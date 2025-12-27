@@ -9,3 +9,4 @@
 * p.59 (Open Mapping Theorem) :
     * "Since $T$ is onto, we have $Y = \cup_{n-1}^{\infty} TB_n^X.$에서 $Y = \cup_{n=1}^{\infty} TB_n^X.$로 수정.
     * "... thus, $T(x_0 + TB_{\delta}^X)$ is a neighborhood of $y_0$."에서 $T(x_0) + TB_{\delta}^X$ 혹은 $T(x_0 + B_\delta^X)$로 수정.
+* p.66 (Corollary of HB) : 첫번째 Corollary의 결과를 $\norm{F(x)}$에서 $\norm{F}$로 수정.
