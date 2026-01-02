@@ -14,3 +14,4 @@
 * p.71 : "Then $f$ is bounded on $S$ and achieves it maximum on $S$"에서 "its maximum"으로 수정.
 * p.73 : Fact 두번째에서 $[R(T^*)]^T$를 $[R(T^*)]$로 수정.
 * p.78 : $\mathrm{ind}(A) = \mathrm{dim} N(A) - n + \mathrm{codim} N(A) = m - n$에서 $\mathrm{ind}(A) = \mathrm{dim}N(A) - \mathrm{codim}R(A) = \mathrm{dim}N(A) + \mathrm{dim}R(A) - m = n - m$으로 수정.
+* p.83 : $\mathcal{M}$의 정의를 $\max_{(x, y, u) \in Q} \frac{\left\lvert F(x,y,u)\right\rvert}{b-a}$에서 $\max_{(x, y, u) \in Q} \left\lvert F(x,y,u)\right\rvert (b-a)$로 수정.
