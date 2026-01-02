@@ -12,3 +12,5 @@
     * "... thus, $T(x_0 + TB_{\delta}^X)$ is a neighborhood of $y_0$."에서 $T(x_0) + TB_{\delta}^X$ 혹은 $T(x_0 + B_\delta^X)$로 수정.
 * p.66 (Corollary of HB) : 첫번째 Corollary의 결과를 $\|F(x)\|$에서 $\|F\|$로 수정.
 * p.71 : "Then $f$ is bounded on $S$ and achieves it maximum on $S$"에서 "its maximum"으로 수정.
+* p.73 : Fact 두번째에서 $[R(T^*)]^T$를 $[R(T^*)]$로 수정.
+* p.78 : $\mathrm{ind}(A) = \mathrm{dim} N(A) - n + \mathrm{codim} N(A) = m - n$에서 $\mathrm{ind}(A) = \mathrm{dim}N(A) - \mathrm{codim}R(A) = \mathrm{dim}N(A) + \mathrm{dim}R(A) - m = n - m$으로 수정.
