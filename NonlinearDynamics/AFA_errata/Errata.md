@@ -15,3 +15,6 @@
 * p.73 : Fact 두번째에서 $[R(T^\ast)]^T$를 $[R(T^\ast)]$로 수정.
 * p.78 : $\mathrm{ind}(A) = \mathrm{dim} N(A) - n + \mathrm{codim} N(A) = m - n$에서 $\mathrm{ind}(A) = \mathrm{dim}N(A) - \mathrm{codim}R(A) = \mathrm{dim}N(A) + \mathrm{dim}R(A) - m = n - m$으로 수정.
 * p.83 : $\mathcal{M}$의 정의를 $\max_{(x, y, u) \in Q} \frac{\left\lvert F(x,y,u)\right\rvert}{b-a}$에서 $\max_{(x, y, u) \in Q} \left\lvert F(x,y,u)\right\rvert (b-a)$로 수정.
+* p.86 : Gateaux differential의 정의를 $\lim_{\alpha\to 0}\frac{T(x+h) - T(x)}{\alpha}$에서 $\lim_{\alpha\to 0}\frac{T(x+\alpha h) - T(x)}{\alpha}$로 수정.
+* p.86-87 : Frechet derivative의 정의 전부.
+* p.89 : Definition의 "$T'(x)$ is onto"를 "$T'(x_0)$ is onto"로 수정.
