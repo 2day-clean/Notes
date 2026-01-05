@@ -18,3 +18,8 @@
 * p.86 : Gateaux differential의 정의를 $\lim_{\alpha\to 0}\frac{T(x+h) - T(x)}{\alpha}$에서 $\lim_{\alpha\to 0}\frac{T(x+\alpha h) - T(x)}{\alpha}$로 수정.
 * p.86-87 : Frechet derivative의 정의 전부.
 * p.89 : Definition의 "$T'(x)$ is onto"를 "$T'(x_0)$ is onto"로 수정.
+
+## Chapter 10.
+* p.96 : Completion에서 $W \in \bar{X}$를 $W \subseteq \bar{X}$로 수정.
+    * 개인적으로, "$\bar{X}$ is unique except for isometries"보다는 "$\bar{X}$ is unique up to isometries"가 자연스러울듯.
+* p.98 : 마지막 줄에서 $\left\langle D^{2\alpha} u_f, \frac{\partial\phi}{\partial x}\right\rangle$을 $\left\langle D^{2\alpha} u_f, \phi\right\rangle$로 수정.
