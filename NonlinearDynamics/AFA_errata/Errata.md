@@ -23,3 +23,6 @@
 * p.96 : Completion에서 $W \in \bar{X}$를 $W \subseteq \bar{X}$로 수정.
     * 개인적으로, "$\bar{X}$ is unique except for isometries"보다는 "$\bar{X}$ is unique up to isometries"가 자연스러울듯.
 * p.98 : 마지막 줄에서 $\left\langle D^{2\alpha} u_f, \frac{\partial\phi}{\partial x}\right\rangle$을 $\left\langle D^{2\alpha} u_f, \phi\right\rangle$로 수정.
+* p.106 :
+    * Corollary : "If $h$ is separable"을 "If $H$ is separable"으로 수정.
+    * Example : $f_k = \sin(k\pi x)$을 $f_k = \cos(k\pi x)$로 수정.
