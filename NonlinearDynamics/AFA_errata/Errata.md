@@ -29,3 +29,4 @@
 
 ## Chapter 11.
 * p.111 (Hellinger-Toeplitz) : $\left\langle x_n, Tx_n \right\rangle \to \left\langle x, y\right\rangle$ 를 $x_n \to x$ and $Tx_n \to y$로 수정.
+* p.113 : Remark에서, $H = R(T) \oplus N(T)$를 $H = \overline{R(T)} \oplus N(T)$로 수정. (일반적으로 $R(T)$는 closed하지 않으므로 complement 분해 어려움)
