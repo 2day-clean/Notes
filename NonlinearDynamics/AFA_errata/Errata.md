@@ -17,7 +17,7 @@
 * p.83 : $\mathcal{M}$의 정의를 $\max_{(x, y, u) \in Q} \frac{\left\lvert F(x,y,u)\right\rvert}{b-a}$에서 $\max_{(x, y, u) \in Q} \left\lvert F(x,y,u)\right\rvert (b-a)$로 수정.
 * p.86 : Gateaux differential의 정의를 $\lim_{\alpha\to 0}\frac{T(x+h) - T(x)}{\alpha}$에서 $\lim_{\alpha\to 0}\frac{T(x+\alpha h) - T(x)}{\alpha}$로 수정.
 * p.86-87 : Frechet derivative의 정의 전부.
-* p.89 : Definition의 "$T'(x)$ is onto"를 "$T'(x_0)$ is onto"로 수정.
+* p.89 : Definition의 " $T'(x)$ is onto"를 " $T'(x_0)$ is onto"로 수정.
 
 ## Chapter 10.
 * p.96 : Completion에서 $W \in \bar{X}$를 $W \subseteq \bar{X}$로 수정.
@@ -26,3 +26,6 @@
 * p.106 :
     * Corollary : "If $h$ is separable"을 "If $H$ is separable"으로 수정.
     * Example : $f_k = \sin(k\pi x)$을 $f_k = \cos(k\pi x)$로 수정.
+
+## Chapter 11.
+* p.111 (Hellinger-Toeplitz) : $\left\langle x_n, Tx_n \right\rangle \to \left\langle x, y\right\rangle$ 를 $x_n \to x$ and $Tx_n \to y$로 수정.
