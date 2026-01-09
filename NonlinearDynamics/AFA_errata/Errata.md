@@ -21,7 +21,7 @@
 
 ## Chapter 10.
 * p.96 : Completion에서 $W \in \bar{X}$를 $W \subseteq \bar{X}$로 수정.
-    * 개인적으로, "$\bar{X}$ is unique except for isometries"보다는 "$\bar{X}$ is unique up to isometries"가 자연스러울듯.
+    * 개인적으로, " $\bar{X}$ is unique except for isometries"보다는 " $\bar{X}$ is unique up to isometries"가 자연스러울듯.
 * p.98 : 마지막 줄에서 $\left\langle D^{2\alpha} u_f, \frac{\partial\phi}{\partial x}\right\rangle$을 $\left\langle D^{2\alpha} u_f, \phi\right\rangle$로 수정.
 * p.106 :
     * Corollary : "If $h$ is separable"을 "If $H$ is separable"으로 수정.
@@ -30,3 +30,7 @@
 ## Chapter 11.
 * p.111 (Hellinger-Toeplitz) : $\left\langle x_n, Tx_n \right\rangle \to \left\langle x, y\right\rangle$ 를 $x_n \to x$ and $Tx_n \to y$로 수정.
 * p.113 : Remark에서, $H = R(T) \oplus N(T)$를 $H = \overline{R(T)} \oplus N(T)$로 수정. (일반적으로 $R(T)$는 closed하지 않으므로 complement 분해 어려움)
+* p.124 (Example 2) : $\mathcal{D}(T)$의 조건 제시를 $x(-1) = x'(-1) = 0$에서 $x(-\pi) = x'(-\pi) = 0$으로 수정.
+마찬가지로, $\mathcal{D}(T^\ast)$의 조건 제시를 $y(1) = y'(1) = 0$에서 $y(\pi) = y'(\pi) = 0$으로 수정.
+* p.126 : 맨 윗 줄에서 "For $T^\ast$ to be formal adjoint of $T$ "를 "For $T$ to be formally self-adjoint"로 수정.
+* p.136 : 11.12에서 $T = -\frac{1}{r(t)}\frac{d}{dt}\left[p(t)\frac{d}{dt}\right] + q(t)$ 를 $T = -\frac{1}{r(t)}\left[\frac{d}{dt}\left[p(t)\frac{d}{dt}\right] + q(t)\right]$로 수정.
