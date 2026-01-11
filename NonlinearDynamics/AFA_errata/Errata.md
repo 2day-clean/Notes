@@ -33,4 +33,5 @@
 * p.124 (Example 2) : $\mathcal{D}(T)$의 조건 제시를 $x(-1) = x'(-1) = 0$에서 $x(-\pi) = x'(-\pi) = 0$으로 수정.
 마찬가지로, $\mathcal{D}(T^\ast)$의 조건 제시를 $y(1) = y'(1) = 0$에서 $y(\pi) = y'(\pi) = 0$으로 수정.
 * p.126 : 맨 윗 줄에서 "For $T^\ast$ to be formal adjoint of $T$ "를 "For $T$ to be formally self-adjoint"로 수정.
+* p.129 : Theorem의 (c)에서 $\lambda \in \sigma(T)$를 $\lambda \in \rho(T)$로 수정.
 * p.136 : 11.12에서 $T = -\frac{1}{r(t)}\frac{d}{dt}\left[p(t)\frac{d}{dt}\right] + q(t)$ 를 $T = -\frac{1}{r(t)}\left[\frac{d}{dt}\left[p(t)\frac{d}{dt}\right] + q(t)\right]$로 수정.
