@@ -35,3 +35,12 @@
 * p.126 : 맨 윗 줄에서 "For $T^\ast$ to be formal adjoint of $T$ "를 "For $T$ to be formally self-adjoint"로 수정.
 * p.129 : Theorem의 (c)에서 $\lambda \in \sigma(T)$를 $\lambda \in \rho(T)$로 수정.
 * p.136 : 11.12에서 $T = -\frac{1}{r(t)}\frac{d}{dt}\left[p(t)\frac{d}{dt}\right] + q(t)$ 를 $T = -\frac{1}{r(t)}\left[\frac{d}{dt}\left[p(t)\frac{d}{dt}\right] + q(t)\right]$로 수정.
+
+## Chapter 12.
+* p.153 : $\dot{\theta}(t) = \int_0^1 e^{-t+s}u(s) ds$에서 $\dot{\theta}(t) = \int_0^t e^{-t+s}u(s) ds$로 수정. (적분범위)
+
+## Chapter 13.
+* p.170 : $\forall h \in D$를 $\forall x \i D$로 수정.
+* p.172 : $\int_0^1 \sqrt{1 + \left\lvert\left\lvert\dot{x}}\right\rvert \right\rvert  dt$를 $\int_0^1 \left\lvert\left\lvert\dot{x}\right\rvert \right\rvert  dt$로 수정.
+* p.176 : $L(x)$에서 $f(x)$의 정의를 $x + \left(\lambda \sqrt{\dot{x}^2 + 1} + \frac{l}{2}\right)$ 에서 $x + \lambda \left(\sqrt{\dot{x}^2 + 1} - l\right) $ 로 수정하는 것이 나을듯.
+* p.177 : $J = \int_{t_i}^{t_f} \sqrt{\dot{x}+\dot{y} +\dot{z}}dt$를 $J = \int_{t_i}^{t_f}\sqrt{\dot{x}^2+\dot{y}^2+\dot{z}^2}dt$로 수정.
