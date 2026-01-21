@@ -44,3 +44,8 @@
 * p.172 : $\int_0^1 \sqrt{1 + \left\lvert\left\lvert\dot{x}}\right\rvert \right\rvert  dt$를 $\int_0^1 \left\lvert\left\lvert\dot{x}\right\rvert \right\rvert  dt$로 수정.
 * p.176 : $L(x)$에서 $f(x)$의 정의를 $x + \left(\lambda \sqrt{\dot{x}^2 + 1} + \frac{l}{2}\right)$ 에서 $x + \lambda \left(\sqrt{\dot{x}^2 + 1} - l\right) $ 로 수정하는 것이 나을듯.
 * p.177 : $J = \int_{t_i}^{t_f} \sqrt{\dot{x}+\dot{y} +\dot{z}}dt$를 $J = \int_{t_i}^{t_f}\sqrt{\dot{x}^2+\dot{y}^2+\dot{z}^2}dt$로 수정.
+
+## Chapter 14.
+* p.186 : First order Equation의 결과를 $\frac{du_{j,k}}{dt} + \frac{f_{j+1,k}-f_{j-1,k}}{2\Delta x} + \frac{g_{j,k+1}-g_{j,k-1}}{2\Delta y} = 0$으로 바꿔야 할듯.
+* p.187 : $S_{AB}$의 계산에서, $(\Delta x_{AB} - \Delta x_{k-1,k})(\Delta y_{AB} - \Delta y_{k-1,k})$를 $(\Delta x_{AB} - \Delta x_{k-1,k})(\Delta y_{AB} + \Delta y_{k-1,k})$로 바꿔야 할듯.
+* p.190 : 마지막 $f(x) = \sum_{j=1}^{N} f_j v_i(x)$를 $f(x) = \sum_{j=1}^{N} f_j v_j(x)$로 인덱스 수정. 
