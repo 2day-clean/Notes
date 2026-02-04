@@ -49,3 +49,8 @@
 * p.186 : First order Equation의 결과를 $\frac{du_{j,k}}{dt} + \frac{f_{j+1,k}-f_{j-1,k}}{2\Delta x} + \frac{g_{j,k+1}-g_{j,k-1}}{2\Delta y} = 0$으로 바꿔야 할듯.
 * p.187 : $S_{AB}$의 계산에서, $(\Delta x_{AB} - \Delta x_{k-1,k})(\Delta y_{AB} - \Delta y_{k-1,k})$를 $(\Delta x_{AB} - \Delta x_{k-1,k})(\Delta y_{AB} + \Delta y_{k-1,k})$로 바꿔야 할듯.
 * p.190 : 마지막 $f(x) = \sum_{j=1}^{N} f_j v_i(x)$를 $f(x) = \sum_{j=1}^{N} f_j v_j(x)$로 인덱스 수정. 
+
+## Chapter 15.
+* p.221 : Unstable manifold의 시간을 전부 $t \to -\infty$ 에서 $t \to \infty$ 로 수정.
+* p.226 : $H^p(M) = 0$을 $H^p(M) = \infty$ 로 수정.
+* p.227 : $\cup_i B_i^k$가 $X_k$를 cover한다는 것에서 $A_k$를 cover한다는 것으로 수정.
