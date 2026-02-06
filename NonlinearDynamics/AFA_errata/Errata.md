@@ -54,3 +54,9 @@
 * p.221 : Unstable manifold의 시간을 전부 $t \to -\infty$ 에서 $t \to \infty$ 로 수정.
 * p.226 : $H^p(M) = 0$을 $H^p(M) = \infty$ 로 수정.
 * p.227 : $\cup_i B_i^k$가 $X_k$를 cover한다는 것에서 $A_k$를 cover한다는 것으로 수정.
+
+
+# ANDS Errata
+## Chapter 2.
+* p.24 : $M_{\gamma_1}M_{\gamma_2} = M_{\gamma_2\gamma_1}$ 은 anti-homomorphism이므로, $M_{\gamma_1}M_{\gamma_2} = M_{\gamma_1\gamma_2}$가 맞음.
+* p.25 : Faithful의 정의를 isomorphism에서 injective (one-to-one)으로 수정해야함.
